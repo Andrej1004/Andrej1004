@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrej1004
 - 👀 I’m interested in Python/Django/JavaScript/React
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
